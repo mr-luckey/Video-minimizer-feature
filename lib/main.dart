@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
             const BottomNavigationBarThemeData(selectedItemColor: Colors.white),
       ),
       home: NavScreen(),
+      //code is commented where you cna copy the horizantal scroll code
     );
   }
 }
